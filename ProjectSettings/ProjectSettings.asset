@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 68442fb2083fdc04aa3a7018f79548ba
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -950,7 +950,7 @@ PlayerSettings:
   cloudProjectId: 13ee46b7-d4d5-4472-ae69-258af51a71d0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Codingkit3
   organizationId: capypappy
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
